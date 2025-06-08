@@ -1,4 +1,6 @@
 # 🔒 AI-Powered Cybersecurity Lab – Ivon Exauce Umba
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 
 Welcome to my mini cybersecurity lab that brings together AI and security tools for both enterprise networks and blockchain applications.
 
