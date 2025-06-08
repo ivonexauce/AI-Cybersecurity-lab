@@ -1,0 +1,4 @@
+[**] [1:1000001:0] ICMP Ping Detected [**]
+[Classification: Attempted Information Leak] [Priority: 2]
+06/08-12:30:23.456789 192.168.1.10 -> 192.168.1.100
+ICMP TTL:64 TOS:0x0 ID:12345 IpLen:20 DgmLen:84

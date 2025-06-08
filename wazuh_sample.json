@@ -1,0 +1,14 @@
+{
+  "timestamp": "2025-06-08T12:31:14.000Z",
+  "rule": {
+    "id": "554",
+    "level": 7,
+    "description": "File modified on /etc/hosts"
+  },
+  "agent": {
+    "id": "001",
+    "name": "local-agent"
+  },
+  "location": "/etc/hosts",
+  "srcip": "192.168.1.10"
+}

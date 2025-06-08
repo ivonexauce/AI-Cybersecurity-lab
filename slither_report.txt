@@ -1,0 +1,9 @@
+INFO: Detected Solidity version: 0.8.0
+INFO: Starting analysis...
+
+MyContract.sol:8: owner is a state variable that controls privileged access.
+Consider using the Ownable pattern.
+
+MyContract.sol:10: Missing reentrancy guard in withdraw().
+
+Analysis completed. 2 Medium vulnerabilities found.
