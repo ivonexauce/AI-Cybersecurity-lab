@@ -1,0 +1,29 @@
+[**] [1:1000001:0] ICMP Ping Detected [**]
+[Classification: Attempted Information Leak] [Priority: 2]
+06/08-12:30:23.456789 192.168.1.10 -> 192.168.1.100
+ICMP TTL:64 TOS:0x0 ID:12345 IpLen:20 DgmLen:84
+
+[**] [1:1000002:0] ICMP Ping Detected [**]
+[Classification: Attempted Information Leak] [Priority: 2]
+06/08-12:31:15.123456 192.168.1.10 -> 192.168.1.101
+ICMP TTL:64 TOS:0x0 ID:12346 IpLen:20 DgmLen:84
+
+[**] [1:1000003:0] Port Scan Detected [**]
+[Classification: Port Scan] [Priority: 1]
+06/08-12:32:05.789012 192.168.1.10 -> 192.168.1.100
+TCP TTL:64 TOS:0x0 ID:54321 IpLen:20 DgmLen:60
+
+[**] [1:1000004:0] ICMP Ping Detected [**]
+[Classification: Attempted Information Leak] [Priority: 2]
+06/08-12:33:45.678901 10.0.0.5 -> 192.168.1.100
+ICMP TTL:128 TOS:0x0 ID:11111 IpLen:20 DgmLen:84
+
+[**] [1:1000005:0] Port Scan Detected [**]
+[Classification: Port Scan] [Priority: 1]
+06/08-12:34:22.345678 192.168.1.10 -> 192.168.1.102
+TCP TTL:64 TOS:0x0 ID:54322 IpLen:20 DgmLen:60
+
+[**] [1:1000006:0] ICMP Ping Detected [**]
+[Classification: Attempted Information Leak] [Priority: 2]
+06/08-12:35:10.987654 10.0.0.5 -> 192.168.1.101
+ICMP TTL:128 TOS:0x0 ID:11112 IpLen:20 DgmLen:84

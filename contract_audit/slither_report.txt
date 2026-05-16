@@ -1,0 +1,7 @@
+INFO: Detected Solidity version: 0.8.0
+INFO: Starting analysis...
+
+MyContract.sol uses custom onlyOwner modifier and nonReentrant guard.
+No vulnerabilities detected.
+
+Analysis completed. 0 vulnerabilities found.
