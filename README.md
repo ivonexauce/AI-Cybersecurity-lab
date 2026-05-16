@@ -99,6 +99,8 @@ ai-cybersecurity-lab/
 - Built a scalable template for enterprise & research use
 
 ---
+📜 License
+MIT License — free to use, distribute, and modify.
 
 ## Contact
 🙌 Contributors & Community
