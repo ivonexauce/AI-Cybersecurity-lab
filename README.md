@@ -1,4 +1,4 @@
-# AI-Powered Cybersecurity Lab – Ivon Exauce Umba
+# AI-Powered Cybersecurity Lab
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 Welcome to my mini cybersecurity lab that brings together AI and security tools for both enterprise networks and blockchain applications.
@@ -101,8 +101,11 @@ ai-cybersecurity-lab/
 ---
 
 ## Contact
+🙌 Contributors & Community
+### UMBA YANGA IVON EXAUCE  
+**Deep-Tech Systems Architect & Innovation Strategist**  
+Founder & CEO UMBA Consulting Engineers  
 
-**Ivon Exauce Umba**
-AI & Blockchain Security
-[umbayanga6bio@gmail.com](mailto:umbayanga6bio@gmail.com)
-www.umbaconsulting.com
+🎓 AI • Blockchain Security • Computational Nanoscience • Smart Enterprise Systems  
+🌐 umbaconsulting.com  
+📧 umbayanga6bio@gmail.com  
